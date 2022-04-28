@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   
   ### Onde me encontrar
   
+  <a href="https://beacons.ai/minnathequeen"><img align="center" alt="Minna-BeaconsAI" height="40" width="40" src="https://assets-global.website-files.com/61734ecee390bd3fe4fbfbb4/61781d41c3877eeabed4d7b7_icon-beacons-circle.svg" /></a>
   <a href="https://www.instagram.com/mkishereoficial/"><img align="center" alt="Minna-IG" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/9234fd26ae39e49958b50a30cb66a2bfc3b5038f/icons/instagram.svg"></a>
   
   ##
